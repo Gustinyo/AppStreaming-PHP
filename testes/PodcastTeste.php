@@ -1,5 +1,6 @@
 <?php
 
+require_once __DIR__ . "/../classes/Podcast.php";
 
 echo "<h2>Teste Podcast</h2>";
 
